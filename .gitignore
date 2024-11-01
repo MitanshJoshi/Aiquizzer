@@ -1,0 +1,30 @@
+# Node.js dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/build/
+backend/dist/
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# Logs
+backend/logs/
+frontend/logs/
+*.log
+
+# IDE or Editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
